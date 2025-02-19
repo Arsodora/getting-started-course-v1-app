@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "67b531d14395c563cc0ff5c7_0c9ff27e-af6a-428c-bef0-550fe3d0600e",
+  "id": "Page2_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "todos",
+        "value": "undefined"
+      },
+      {
+        "name": "activeTodo",
+        "value": "undefined"
+      },
+      {
+        "name": "dummyTodos",
+        "value": "[{\n  title: 'use the input to add a todo',\n  completed: true\n}, {\n  title: 'LINE 2',\n  completed: false\n}, {\n  title: 'Line 3',\n  completed: false\n}, {\n  title: 'Line 4',\n  completed: false\n}]"
+      }
+    ]
+  }
+}
